@@ -4,4 +4,4 @@ a self-taught individual to become a web developer, mostly focus on front-end de
 
 Skills:  HTML / CSS / JS / React / Tailwind CSS
 
-- 🌱 I’m currently learning .Net 
+- 🌱 I’m currently learning .Net and Linux
