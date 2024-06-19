@@ -4,4 +4,4 @@ a self-taught individual to become a soft eng
 
 Skills:  HTML / CSS / JS / React / Tailwind CSS
 
-- 🌱 I’m currently learning Vue, .Net and Linux
+- 🌱 I’m currently learning Vue, and Go
