@@ -10,5 +10,3 @@ Skills:  HTML / CSS / JS / Tailwind CSS
 
 open for a job ( even internship )
 
-
-- locked in starting tom 
