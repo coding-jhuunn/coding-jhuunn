@@ -4,5 +4,3 @@
 
 Skills:  HTML / CSS / JS / Vue Js / Tailwind CSS
 
-
-> " Stress then rest "
